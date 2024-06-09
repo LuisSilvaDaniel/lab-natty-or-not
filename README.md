@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
+Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+# Guia Prático: Como Utilizar o ChatGPT de Forma Eficaz
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Elaboração de um Ebook com textos e imagens (na sua maioria) - utilizando Inteligência Artificial - IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+O tema e seu conteúdo (texto) foi criado usando o ChatGPT - https://chatgpt.com/
+O formato de Ebook foi elaborado pelo Ebook Maker - https://ebookmaker.ai/
+As imagens, principalmente a capa, foi criada usando o Leonardo.AI - https://app.leonardo.ai/
+A revisão do texto foi feito no Editor de Texto Word for Windows
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+A ideia surgiu ao participar do Bootcamp SANTANDER 2024 - Fundamentos de IA para DEVs, no curso Prompts Assertivos Para ChatGPT,
+onde imaginei criar um ebook com o passo-a-passo simplificado e explicativo para o uso desta Inteligência Artificial.
+O início, logicamente, foi usar o ChatGPT para elaborar o texto, depois criei a capa do Ebook usando o LeonardoIA e, também, algumas outras imagens
+- já que o MidJourney não liberou o teste "gratuíto" -, nas imagens que não foram criadas por IA usei o Photoshop para tratamento,
+em seguida testei uma IA especializada em criar ebooks, mas que serviu apenas para dar uma noção do formato, pois, a edição e formatção do texto optei por usar o velho e bom WORD.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+Acredito que o resultado final ficou muito bom, porque atingi o objetivo de elaborar um ebook que tivesse leitura fácil e compreensível para leigos e iniciantes.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+A Inteligência Artificial já é realidade para a maioria das pessoas, e iniciativas simples como publicar um ebook voltado para leigos é uma maneira de integrar mais pessoas neste mundo novo.
+
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
